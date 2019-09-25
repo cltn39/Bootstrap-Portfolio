@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-week2hw2
+Portfolio webpage using bootstrap/basic CSS
